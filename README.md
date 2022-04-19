@@ -1,6 +1,23 @@
-# travel_App
+# Tembea
 
 A Flutter app to demonstrate use of cubit packages in flutter.
+
+
+### Cubit 
+
+Cubit is similar to Bloc but has no notion of events and relies on methods to emit new states. It has states and emits them based on request. 
+
+#### Cubit app Architecture
+
+<img src="img/cubit.png" width=300px /><br/>
+<br/>
+<img src="img/cubit-detailed.png" width=300px />
+
+
+## Tembea Screens 
+<img src="img/landing-page.jpg" width=200px />
+<img src="img/home-page.jpg" width=200px />
+<img src="img/details-page.jpg" width=200px />
 
 ## Getting Started
 
