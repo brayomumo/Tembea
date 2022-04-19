@@ -1,6 +1,6 @@
-# smart_farm
+# travel_App
 
-A new Flutter project.
+A Flutter app to demonstrate use of cubit packages in flutter.
 
 ## Getting Started
 
